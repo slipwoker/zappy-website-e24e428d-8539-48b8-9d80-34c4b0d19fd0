@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Explore Israel&#39;s ancient wonders with expert local guides. Israel Spirit offers unforgettable israel guided tour packages through history, culture, and breathtaking landscapes. Book yours today!
+
+### Tours
+https://example.com/tours
+From Tel Aviv&#39;s vibrant streets to Jerusalem&#39;s sacred sites, our guided tours israel cruise ship passengers love are ready to book. Discover every iconic destination with Israel Spirit.
+
+### About
+https://example.com/about
+Israel Spirit&#39;s passionate local experts have spent years mastering every corner of the Holy Land. Learn why travelers choose us as the best private tour companies israel has to offer.
+
+### Contact
+https://example.com/contact
+Ready to explore Israel with a trusted tel aviv tour guide or plan your custom itinerary? Contact Israel Spirit today and let our team craft the perfect journey just for you.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
